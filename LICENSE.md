@@ -19,7 +19,7 @@ Any use, modification, or distribution of the Software must include appropriate
 credit to the original author:
 
 PenguineDavid  
-https://github.com/PenguineDavid/Glyph
+https://github.com/PenguineDavid/Kith
 
 ## Distribution of Modifications
 
