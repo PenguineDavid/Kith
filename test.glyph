@@ -1,13 +1,27 @@
-func main() {
-    int x = 5
-    if(x > 3 and x < 10) {
-        print("x is between 3 and 10")
-    } else {
-        print("x is out of range")
-    }
+int count = 0   // global variable – outside all functions
 
-    while(x > 0) {
-        print(x)
-        x = x - 1
+func init() {
+    int x = 10
+    print("Initializing...")
+    print(x)
+}
+
+func setup() {
+    print("Setting up...")
+}
+
+func start() {
+    print("Starting...")
+}
+
+func loop() {
+    count = count + 1
+    print("Looping...")
+    if (count > 5) {
+        stop
     }
+}
+
+func shutdown() {
+    print("Shutting down... (never reached)")
 }
