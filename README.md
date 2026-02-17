@@ -91,3 +91,7 @@ standard
 +-/* =
 
 DISCLAIMER this is in very heavy WIP there will be bugs there will be missing features there will be features ive listed as complete and forgoten to add
+
+---
+
+i recommend instlling my extension pack for the language as well https://github.com/PenguineDavid/glyph-extension
