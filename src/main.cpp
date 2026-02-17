@@ -10,7 +10,7 @@ int main(int argc, char **argv)
 {
     if (argc < 2)
     {
-        std::cout << "Usage: glyph <input.glyph> [output_exe]\n";
+        std::cout << "Usage: kith <input.kith> [output_exe]\n";
         std::cout << "If output_exe is omitted, 'output' is used.\n";
         return 1;
     }
@@ -54,4 +54,5 @@ int main(int argc, char **argv)
 
     std::cout << "Compiled successfully: ./" << output_exe << "\n";
     return 0;
+
 }
