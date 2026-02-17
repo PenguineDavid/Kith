@@ -94,4 +94,4 @@ DISCLAIMER this is in very heavy WIP there will be bugs there will be missing fe
 
 ---
 
-i recommend instlling my extension pack for the language as well https://github.com/PenguineDavid/kith-extension
+i recommend instlling my extension pack for the language as well https://github.com/PenguineDavid/Kith-extension
