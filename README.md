@@ -52,7 +52,7 @@ they do exactly what they sound like
 
 ### functions
 
-you define a filction like this
+you define a function like this
 
 func name(args) {
 
