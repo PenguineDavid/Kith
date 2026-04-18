@@ -90,7 +90,7 @@ standard
 
 +-/* =
 
-DISCLAIMER this is in very heavy WIP there will be bugs there will be missing features there will be features ive listed as complete and forgoten to add
+DISCLAIMER this is in very heavy WIP there will be bugs there will be missing features there will be features I've listed as complete and forgoten to add
 
 ---
 
