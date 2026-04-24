@@ -1,5 +1,7 @@
 # Kith Language
 
+> This is an out dated version of Kith, Kith-2.0 is now out and much better https://github.com/PenguineDavid/Kith-2.0
+
 Kith is a statically typed, compiled programming language designed for clarity and explicitness. It features a clean syntax, word-based logical operators, and multiple string literal formats. This repository contains the reference compiler (transpiler to C) for Kith.
 
 ---
