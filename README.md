@@ -42,37 +42,35 @@ this will produce an exe and an output.c file the output.c file is the code in C
 
 ## writing your first kith program
 
-if you are looking for a detailed explanaition here is not the place i wont be explaining how the code thats the same as other languages worksi suggjest learning js or C++ first
+If you are looking for a detailed explinaition here is not the place, I wont be explaining how the code thats the same as other languages works, I suggjest learning js or C++ first.
 
-how it  differ from languages like C++
+How it differs from languages like C++:
 
-it has special functions similar to event scripting languages such as JS
+It has special functions similar to event scripting languages such as JS.
 
-init, setup, start, loop, shutdown(shut down is currently literaly useless WIP)
+Init, setup, start, loop, shutdown(shut down is currently literaly useless WIP).
 
-they do exactly what they sound like
+They do exactly what they sound like.
 
 ### functions
 
-you define a function like this
+you define a function like this:
 
 func name(args) {
 
 }
 
-it is staticly typed but i dont like languages where you have to declare the function diffrently depending on what it returns, like java for inputs you must specifi what tye of var they are like this
+It is staticly typed, but I dont like languages where you have to declare the function diffrently depending on what it returns, like Java for inputs you must specify what ty[e of var they are like this:
 
 func add_nums(int numA, int numB) {
      return int(numA + numB)
 }
 
-as you can see you do still need to specifi what it returns 
+As you can see, you do still need to specifi what it returns.
 
 ## Operators
 
-### boolean
-
-to do logical operations you use key words
+To do logical operations you use key words
 
 and,
 xor,
@@ -92,8 +90,8 @@ standard
 
 +-/* =
 
-DISCLAIMER this is in very heavy WIP there will be bugs there will be missing features there will be features I've listed as complete and forgoten to add
+DISCLAIMER this is in very heavy WIP, there will be bugs there will be missing features, there will be features I've listed as complete and forgoten to .
 
 ---
 
-i recommend installing my extension pack for the language as well https://github.com/PenguineDavid/Kith-extension
+I recommend installing my extension pack for the language as well, https://github.com/PenguineDavid/Kith-extension
