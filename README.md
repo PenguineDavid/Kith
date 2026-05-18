@@ -95,3 +95,17 @@ DISCLAIMER this is in very heavy WIP, there will be bugs there will be missing f
 ---
 
 I recommend installing my extension pack for the language as well, https://github.com/PenguineDavid/Kith-extension
+
+---
+
+## License
+
+Kith-alpha-0.1 - Kith is a small transpiled language 
+Copyright (C) 2026 PenguineDavid
+
+This program is free software: you can redistribute it and/or modify  
+it under the terms of the GNU General Public License as published by  
+the Free Software Foundation, either version 3 of the License, or  
+(at your option) any later version.
+
+See the [LICENSE](https://github.com/PenguineDavid/Kith-alpha-0.1?tab=GPL-3.0-1-ov-file) file for the full license text.
